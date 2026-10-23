@@ -1,0 +1,15 @@
+# Build output
+*.o
+*.d
+*.exe
+encrypt_decrypt
+cryption
+
+# Secrets (your real encryption key lives here)
+.env
+
+# Editor settings (contain machine-specific paths)
+.vscode/
+
+# Local test data (gets overwritten by encrypt/decrypt runs)
+test/
