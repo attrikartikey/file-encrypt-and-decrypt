@@ -38,8 +38,8 @@ A small C++17 command-line program that encrypts or decrypts every file inside a
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/attrikartikey/file-encrypt-and-decrypt.git
+cd file-encrypt-and-decrypt
 cp .env.example .env      # Windows: copy .env.example .env
 ```
 
